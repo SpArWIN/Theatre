@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{19C264B6-D480-419E-BF2D-5969E359F0F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theatre.Domain", "Theatre.Domain\Theatre.Domain.csproj", "{22EDCB66-99FB-48AB-A22F-FBC799319D29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{22EDCB66-99FB-48AB-A22F-FBC799319D29} = {19C264B6-D480-419E-BF2D-5969E359F0F9}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22EDCB66-99FB-48AB-A22F-FBC799319D29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22EDCB66-99FB-48AB-A22F-FBC799319D29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22EDCB66-99FB-48AB-A22F-FBC799319D29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22EDCB66-99FB-48AB-A22F-FBC799319D29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
